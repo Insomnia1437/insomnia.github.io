@@ -1,5 +1,9 @@
+### Info
+- **Personal Blog**: [blog.sdcswd.wang](https://blog.sdcswd.wang)
+- **ORCID**: [ORCID](https://orcid.org/0000-0002-9119-8838)
 
-Personal Blog: [blog.sdcswd.wang](https://blog.sdcswd.wang//)
+### Contacts
+- Email📮: sdcswd@gmail.com
 
 --------
 ### Work
