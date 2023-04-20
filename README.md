@@ -1,6 +1,5 @@
-# GitHub Pages User sites
 
-Personal Blog: [https://insomnia1437.github.io/MyBlog/](https://insomnia1437.github.io/MyBlog/)
+Personal Blog: [blog.sdcswd.wang](https://blog.sdcswd.wang//)
 
 --------
 ### Work
