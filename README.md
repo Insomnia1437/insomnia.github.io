@@ -22,7 +22,6 @@
   - Degree: Master of Engineering
   - Major:  Computer Technology
 - Undergraduate
-  - School: SHANDONG UNIVERSITY
   - Dates of attendance: 2011/09 ~ 2015/06
   - Degree: Bachelors of Engineering
   - Major:  Computer Science and Technology
