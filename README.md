@@ -7,9 +7,18 @@
 
 --------
 ### Work
+- Visiting Researcher
+  - ESS (Sweden)
+  - Date of attendance: 2024/02 ~ 2024/07
+- Assistant Professor
+  - High Energy Accelerator Research Organization (KEK)
+  - Date of attendance: 2023/10 ~ now
 - Postdoc
   - High Energy Accelerator Research Organization (KEK)
-  - Date of attendance: 2021/10 ~ now
+  - Date of attendance: 2022/04 ~ 2023/10
+- Researcher
+  - High Energy Accelerator Research Organization (KEK)
+  - Date of attendance: 2021/10 ~ 2022/04
 
 ### Education
 - PhD Candidate
